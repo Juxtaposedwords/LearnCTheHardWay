@@ -1,2 +1,3 @@
 # LearnCTheHardWay
-dumb little repo for following along with Learn C The Hard Way
+A repo fro my work on http://c.learncodethehardway.org/book/
+
